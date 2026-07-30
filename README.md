@@ -18,8 +18,6 @@
 
 1.	Home Page of Application
 
-![Home Window Of Daily-Task-Scheduler](https://user-images.githubusercontent.com/55116730/96165676-8e9b6300-0f3a-11eb-9698-90b7ee23ba4d.png)
-
 2.	Settings of Application
 	
 ![Settings Window of Daily-Task-Scheduler](https://user-images.githubusercontent.com/55116730/96165674-8e02cc80-0f3a-11eb-80cb-ec0f5a84bb99.png)
